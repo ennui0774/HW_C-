@@ -1,0 +1,15 @@
+D:\учеба\HW_c#\HomeTask41\bin\Debug\net6.0\HomeTask41.exe
+D:\учеба\HW_c#\HomeTask41\bin\Debug\net6.0\HomeTask41.deps.json
+D:\учеба\HW_c#\HomeTask41\bin\Debug\net6.0\HomeTask41.runtimeconfig.json
+D:\учеба\HW_c#\HomeTask41\bin\Debug\net6.0\HomeTask41.dll
+D:\учеба\HW_c#\HomeTask41\bin\Debug\net6.0\HomeTask41.pdb
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\HomeTask41.csproj.AssemblyReference.cache
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\HomeTask41.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\HomeTask41.AssemblyInfoInputs.cache
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\HomeTask41.AssemblyInfo.cs
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\HomeTask41.csproj.CoreCompileInputs.cache
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\HomeTask41.dll
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\refint\HomeTask41.dll
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\HomeTask41.pdb
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\HomeTask41.genruntimeconfig.cache
+D:\учеба\HW_c#\HomeTask41\obj\Debug\net6.0\ref\HomeTask41.dll
