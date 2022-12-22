@@ -11,9 +11,9 @@ double CalcX(double bx1, double kx1, double bx2, double kx2)
 {
 return (bx2 - bx1) / (kx1 - kx2);
 }
-double CalcY(double x, double bx1, double kx1, double bx2, double kx2)
+double CalcY(double  newx, double bx1, double kx1, double bx2, double kx2)
 {
-return kx1 * x + bx1;
+return kx1 * newx + bx1;
 }
 Console.WriteLine("ЗАДАНЫ ДВЕ ПРЯМЫЕ 'y = k1 * x + b1' и 'y = k2 * x + b2'");
 Console.WriteLine("Введите b1: ");

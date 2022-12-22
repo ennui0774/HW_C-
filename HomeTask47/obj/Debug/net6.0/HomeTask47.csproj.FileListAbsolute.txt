@@ -1,0 +1,15 @@
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\HomeTask47.csproj.AssemblyReference.cache
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\HomeTask47.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\HomeTask47.AssemblyInfoInputs.cache
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\HomeTask47.AssemblyInfo.cs
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\HomeTask47.csproj.CoreCompileInputs.cache
+D:\учеба\HW_c#\HomeTask47\bin\Debug\net6.0\HomeTask47.exe
+D:\учеба\HW_c#\HomeTask47\bin\Debug\net6.0\HomeTask47.deps.json
+D:\учеба\HW_c#\HomeTask47\bin\Debug\net6.0\HomeTask47.runtimeconfig.json
+D:\учеба\HW_c#\HomeTask47\bin\Debug\net6.0\HomeTask47.dll
+D:\учеба\HW_c#\HomeTask47\bin\Debug\net6.0\HomeTask47.pdb
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\HomeTask47.dll
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\refint\HomeTask47.dll
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\HomeTask47.pdb
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\HomeTask47.genruntimeconfig.cache
+D:\учеба\HW_c#\HomeTask47\obj\Debug\net6.0\ref\HomeTask47.dll
