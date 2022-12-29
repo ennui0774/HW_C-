@@ -1,0 +1,15 @@
+D:\учеба\HW_c#\HomeTask64\bin\Debug\net6.0\HomeTask64.exe
+D:\учеба\HW_c#\HomeTask64\bin\Debug\net6.0\HomeTask64.deps.json
+D:\учеба\HW_c#\HomeTask64\bin\Debug\net6.0\HomeTask64.runtimeconfig.json
+D:\учеба\HW_c#\HomeTask64\bin\Debug\net6.0\HomeTask64.dll
+D:\учеба\HW_c#\HomeTask64\bin\Debug\net6.0\HomeTask64.pdb
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\HomeTask64.csproj.AssemblyReference.cache
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\HomeTask64.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\HomeTask64.AssemblyInfoInputs.cache
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\HomeTask64.AssemblyInfo.cs
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\HomeTask64.csproj.CoreCompileInputs.cache
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\HomeTask64.dll
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\refint\HomeTask64.dll
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\HomeTask64.pdb
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\HomeTask64.genruntimeconfig.cache
+D:\учеба\HW_c#\HomeTask64\obj\Debug\net6.0\ref\HomeTask64.dll
