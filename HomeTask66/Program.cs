@@ -4,15 +4,15 @@
 
 // M = 1; N = 15 -> 120
 // M = 4; N = 8. -> 30
-int SumInterval1(int num1, int num2)
+int SumInterval1(int m, int n)
 {
-    if (num1 >= num2) return num1 + SumInterval1(num1 - 1, num2);
+    if (m >= n) return m + SumInterval1(m - 1, n);
     else return 0;
 
 }
-int SumInterval2(int num1, int num2)
+int SumInterval2(int m, int n)
 {
-    if (num1 <= num2) return num1 + SumInterval2(num1 + 1, num2);
+    if (m <= n) return n + SumInterval2(m, n - 1);
     else return 0;
 
 }

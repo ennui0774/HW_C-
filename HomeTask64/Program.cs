@@ -14,6 +14,4 @@ void Intreval(int num)
 Console.WriteLine("Введите натуральное число (N): ");
 int number = Convert.ToInt32(Console.ReadLine());
 Console.Write($"N = {number} -> ");
-Console.Write('"');
 Intreval(number);
-Console.Write('"');
