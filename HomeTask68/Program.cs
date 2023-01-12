@@ -14,5 +14,13 @@ Console.WriteLine("Введите натуральное число M: ");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите натуральное число N: ");
 int n = Convert.ToInt32(Console.ReadLine());
+<<<<<<< HEAD
 int result = Akkerman(m, n);
 Console.Write($"m = {m}, n = {n} -> A({m},{n}) = {result}");
+=======
+if (m < 4 && n < 12 && m >= 0 && n >= 0)
+{
+    int result = Akkerman(m, n);
+    Console.Write($"m = {m}, n = {n} -> A({m},{n}) = {result}");
+}
+>>>>>>> df1bd024adbd41b6ef60ecbafa4e9a28bd30725c
